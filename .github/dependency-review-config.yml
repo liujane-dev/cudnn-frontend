@@ -1,7 +1,7 @@
 fail-on-severity: moderate
 warn-only: false
 
-comment-summary-in-pr: always
+comment-summary-in-pr: never
 
 allow-licenses:
   - Apache-2.0
