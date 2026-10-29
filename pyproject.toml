@@ -105,7 +105,7 @@ dev = [
     "pytest-xdist",
     "cuda-python",
     "looseversion",
-    "black==26.3.1",
+    "black==26.10.1",
     "clang-format==21.1.6",
 ]
 # Per-framework groups for the type-erased CuTeDSL GEMM APIs (JAX is supported
